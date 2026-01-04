@@ -2,6 +2,7 @@ pandas
 matplotlib
 seaborn
 numpy
+<<<<<<< HEAD
 jupyter
 sentence-transformers
 langchain
@@ -9,3 +10,6 @@ langchain-community
 langchain-text-splitters
 chromadb
 tqdm
+=======
+jupyter
+>>>>>>> dfbf5e35a9bb0eaa2313efc12203107669978c68
