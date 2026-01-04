@@ -5,3 +5,4 @@ __pycache__
 data/raw/*
 data/processed/*
 vector_store/*
+rag-complaint-chatbot/notebooks/vector_store/*
