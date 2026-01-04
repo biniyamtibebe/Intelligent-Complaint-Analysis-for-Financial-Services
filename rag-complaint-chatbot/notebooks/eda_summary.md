@@ -1,0 +1,5 @@
+# Summary of Exploratory Data Analysis (EDA) Results
+
+The analysis of consumer complaints reveals significant insights into the distribution of complaints by product, with a majority related to **credit reporting** (7,707,824 complaints). Other notable categories include credit reporting and credit repair (2,163,844), debt collection (960,467), and mortgage issues (435,891). This distribution highlights key areas of concern for consumers, indicating critical products that may require focused evaluations and improvements. 
+
+Further examination of narrative lengths in the complaints shows a total count of narratives at **12,797,770**, with an average length of 49.77 characters. A notable portion of these complaints, **71.7%**, lack narratives altogether, suggesting a potential gap in detailed consumer feedback. This lack of context in a significant number of complaints may hinder a deeper understanding of consumer issues. The visualizations included illustrate these distributions and further emphasize the need for targeted interventions in complaint management and resolution strategies.
