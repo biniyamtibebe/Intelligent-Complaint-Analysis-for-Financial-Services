@@ -3,3 +3,9 @@ matplotlib
 seaborn
 numpy
 jupyter
+sentence-transformers
+langchain
+langchain-community
+langchain-text-splitters
+chromadb
+tqdm
